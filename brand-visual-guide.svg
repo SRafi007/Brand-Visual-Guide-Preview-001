@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200">
+  <!-- Background -->
+  <rect width="800" height="1200" fill="#F8F3FF" />
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="100" fill="#4A2882" />
+  <text x="400" y="60" font-family="Arial" font-size="32" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Brand Visual Guide</text>
+  
+  <!-- Color Palette Section -->
+  <text x="50" y="150" font-family="Arial" font-size="24" font-weight="bold" fill="#333333">Color Palette</text>
+  
+  <!-- Primary Color -->
+  <rect x="50" y="170" width="100" height="100" fill="#FF5E94" rx="10" />
+  <text x="170" y="200" font-family="Arial" font-size="16" fill="#333333">Primary Color</text>
+  <text x="170" y="220" font-family="Arial" font-size="14" fill="#333333">#FF5E94</text>
+  <text x="170" y="240" font-family="Arial" font-size="12" fill="#333333">Emotion & Surprise</text>
+  
+  <!-- Secondary Color -->
+  <rect x="50" y="280" width="100" height="100" fill="#4A2882" rx="10" />
+  <text x="170" y="310" font-family="Arial" font-size="16" fill="#333333">Secondary Color</text>
+  <text x="170" y="330" font-family="Arial" font-size="14" fill="#333333">#4A2882</text>
+  <text x="170" y="350" font-family="Arial" font-size="12" fill="#333333">Tradition & Luxury</text>
+  
+  <!-- Accent Color -->
+  <rect x="50" y="390" width="100" height="100" fill="#FFD166" rx="10" />
+  <text x="170" y="420" font-family="Arial" font-size="16" fill="#333333">Accent Color</text>
+  <text x="170" y="440" font-family="Arial" font-size="14" fill="#333333">#FFD166</text>
+  <text x="170" y="460" font-family="Arial" font-size="12" fill="#333333">Celebration & Gifts</text>
+  
+  <!-- Background Colors -->
+  <rect x="300" y="170" width="100" height="100" fill="#FFFFFF" rx="10" stroke="#CCCCCC" stroke-width="1" />
+  <text x="420" y="200" font-family="Arial" font-size="16" fill="#333333">Light Background</text>
+  <text x="420" y="220" font-family="Arial" font-size="14" fill="#333333">#FFFFFF</text>
+  
+  <rect x="300" y="280" width="100" height="100" fill="#F8F3FF" rx="10" stroke="#CCCCCC" stroke-width="1" />
+  <text x="420" y="310" font-family="Arial" font-size="16" fill="#333333">Medium Background</text>
+  <text x="420" y="330" font-family="Arial" font-size="14" fill="#333333">#F8F3FF</text>
+  
+  <rect x="300" y="390" width="100" height="100" fill="#2D1650" rx="10" />
+  <text x="420" y="420" font-family="Arial" font-size="16" fill="#333333">Dark Background</text>
+  <text x="420" y="440" font-family="Arial" font-size="14" fill="#333333">#2D1650</text>
+  
+  <!-- Typography Section -->
+  <text x="50" y="540" font-family="Arial" font-size="24" font-weight="bold" fill="#333333">Typography</text>
+  
+  <!-- Primary Font -->
+  <text x="50" y="580" font-family="Arial" font-size="20" font-weight="bold" fill="#FF5E94">Montserrat Bold</text>
+  <text x="50" y="610" font-family="Arial" font-size="18" font-weight="600" fill="#4A2882">Montserrat SemiBold</text>
+  <text x="50" y="640" font-family="Arial" font-size="16" fill="#333333">Montserrat Regular - Body Text</text>
+  
+  <!-- Secondary Font -->
+  <text x="450" y="580" font-family="Georgia" font-size="20" font-weight="bold" fill="#4A2882">Playfair Display</text>
+  <text x="450" y="610" font-family="Georgia" font-size="16" font-style="italic" fill="#333333">For elegant accents and quotes</text>
+  
+  <!-- Text Colors -->
+  <rect x="50" y="670" width="20" height="20" fill="#333333" />
+  <text x="80" y="685" font-family="Arial" font-size="14" fill="#333333">Primary Text #333333</text>
+  
+  <rect x="250" y="670" width="20" height="20" fill="#4A2882" />
+  <text x="280" y="685" font-family="Arial" font-size="14" fill="#333333">Secondary Text #4A2882</text>
+  
+  <rect x="450" y="670" width="20" height="20" fill="#FF5E94" />
+  <text x="480" y="685" font-family="Arial" font-size="14" fill="#333333">Accent Text #FF5E94</text>
+  
+  <!-- Social Media Post Examples -->
+  <text x="50" y="730" font-family="Arial" font-size="24" font-weight="bold" fill="#333333">Post Examples</text>
+  
+  <!-- Instagram Post -->
+  <rect x="50" y="750" width="300" height="300" fill="#FFFFFF" rx="10" stroke="#CCCCCC" stroke-width="2" />
+  <text x="200" y="780" font-family="Arial" font-size="16" font-weight="bold" fill="#4A2882" text-anchor="middle">Instagram Post (1080×1080)</text>
+  
+  <!-- Instagram Post Content Example -->
+  <rect x="80" y="800" width="240" height="200" fill="#F8F3FF" rx="5" />
+  <circle cx="200" cy="900" r="70" fill="#FF5E94" opacity="0.8" />
+  <rect x="170" y="930" width="60" height="25" fill="#FFD166" rx="5" />
+  <text x="200" y="947" font-family="Arial" font-size="12" font-weight="bold" fill="#333333" text-anchor="middle">SHOP</text>
+  
+  <!-- Facebook Post -->
+  <rect x="400" y="750" width="350" height="183" fill="#FFFFFF" rx="10" stroke="#CCCCCC" stroke-width="2" />
+  <text x="575" y="780" font-family="Arial" font-size="16" font-weight="bold" fill="#4A2882" text-anchor="middle">Facebook Post (1200×630)</text>
+  
+  <!-- Facebook Post Content Example -->
+  <rect x="420" y="800" width="310" height="110" fill="#F8F3FF" rx="5" />
+  <rect x="440" y="820" width="120" height="70" fill="#4A2882" opacity="0.8" rx="5" />
+  <rect x="590" y="820" width="120" height="70" fill="#FF5E94" opacity="0.8" rx="5" />
+  
+  <!-- Stories Example -->
+  <rect x="450" y="950" width="135" height="240" fill="#FFFFFF" rx="10" stroke="#CCCCCC" stroke-width="2" />
+  <text x="518" y="980" font-family="Arial" font-size="14" font-weight="bold" fill="#4A2882" text-anchor="middle">Stories (1080×1920)</text>
+  
+  <!-- Stories Content Example -->
+  <rect x="460" y="1000" width="115" height="180" fill="#2D1650" rx="5" />
+  <rect x="485" y="1050" width="65" height="65" fill="#FF5E94" opacity="0.8" rx="5" />
+  <rect x="505" y="1130" width="25" height="25" fill="#FFD166" rx="5" />
+  
+  <!-- Product Card Example -->
+  <rect x="130" y="950" width="220" height="220" fill="#FFFFFF" rx="10" stroke="#FF5E94" stroke-width="3" />
+  <text x="240" y="980" font-family="Arial" font-size="16" font-weight="bold" fill="#4A2882" text-anchor="middle">Product Card</text>
+  
+  <!-- Product Card Content -->
+  <rect x="150" y="1000" width="180" height="140" fill="#F8F3FF" rx="5" />
+  <circle cx="240" cy="1070" r="50" fill="#4A2882" opacity="0.3" />
+  <rect x="245" y="1150" width="70" height="25" fill="#FFD166" rx="5" />
+  <text x="280" y="1167" font-family="Arial" font-size="12" font-weight="bold" fill="#333333" text-anchor="middle">৳1200</text>
+
+  <!-- Footer -->
+  <rect x="0" y="1170" width="800" height="30" fill="#4A2882" />
+</svg>
