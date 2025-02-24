@@ -1,3 +1,3 @@
 # Brand Visual Guide
 
-![Brand Visual Guide](brand-visual-guide.svg)
+![Brand Visual Guide](brand_visual_guide.html)
